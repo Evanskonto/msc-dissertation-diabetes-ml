@@ -14,7 +14,7 @@ The goal of the project is to support **early public-health screening** by ident
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source:** Behavioural Risk Factor Surveillance System (BRFSS) 2015
 - **Size:** 253,680 survey respondents
 - **Features:** Demographic, lifestyle, and clinical health indicators
